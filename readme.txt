@@ -1,1 +1,2 @@
-myerp is an erp system for a company
+Git is a distributed version control system.
+Git is free software.
